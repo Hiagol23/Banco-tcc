@@ -6,6 +6,12 @@ select * from tbl_codigo_recuperacao;
 select * from tbl_grupo;
 select * from tbl_categoria;
 select * from tbl_area;
+select * from tbl_calendario;
+select * from tbl_chat;
+select * from tbl_ebooks;
+select * from tbl_ebooks_categoria;
+select * from tbl_mensagens;
+select * from tbl_usuario_grupo;
 
 
 CREATE TABLE tbl_usuario (
